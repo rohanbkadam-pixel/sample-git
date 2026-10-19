@@ -1,4 +1,4 @@
 # sample-git
 This is my first Git Repository
 <br>
-Author -Rohan Kadam 
+Author -Rohan Kadam (Devloper)
